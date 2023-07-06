@@ -1,7 +1,8 @@
-=> This is a freelance Garage Door Repair and Installation Website 
+=> This is a freelance Garage Door Repair and Installation Website for a small business owner. 
 
-=> This website was created using HTML, CSS, and JavaScript 
+=> This website was created using HTML, CSS, and JavaScript.
 
+=> Link to webiste: https://mtpleasantgaragedoors.com/
 
 
 
