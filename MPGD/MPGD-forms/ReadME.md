@@ -1,7 +1,9 @@
 # Mt Pleasant Garage Doors
 A multi-page responsive website for a small business.
 
-Link: [https://mtpleasantgaragedoors.com/](https://bestpagebooks.netlify.app/)
+Link: https://mtpleasantgaragedoors.com/
+
+<img width="1315" alt="MPGD" src="https://github.com/Ali-Herrera/Freelance/assets/122916748/92b81069-cc1f-478d-b86c-16e153098f1a">
 
 
 ## How It's Made:
@@ -10,4 +12,4 @@ Link: [https://mtpleasantgaragedoors.com/](https://bestpagebooks.netlify.app/)
 
 
 ## Optimizations
-I'd enhance the UI and UX, making it more easily readily and displaying each book in a card format. 
+I'd really love to back through this website so enhance accessibility with use of WCAG guidelines. 
